@@ -7,5 +7,5 @@ from cpu import *
 
 cpu = CPU()
 
-cpu.load()
+cpu.load('C:\\Users\\Zero\\Desktop\\Computer-Architecture\\ls8\\examples\\call.ls8')
 cpu.run()
